@@ -2,4 +2,4 @@
 Experimental and development packages 
 
 
-Module source code: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=189772
+Kernel's module source code: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=189772
