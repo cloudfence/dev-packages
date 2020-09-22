@@ -17,3 +17,6 @@ At system boot, the 3 LEDs will blink (leds test).
 | WAN packetloss > 30%                  | -        | Blinking slow             | -    |
 | WAN online (Internet access)          | -        | ON                        | -    |
 
+### squidGuard Plugin ###
+
+ref.: [https://wiki.cloudfence.com.br](https://wiki.cloudfence.com.br)
